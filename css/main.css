@@ -19,11 +19,18 @@ header {
 
 li a {
   color: #fff;
-  list-style-type: none;
   text-align: center;
   text-decoration: none;
   font-family: sans-serif;
   background-color: #713837;
   padding: .6em;
   border-radius: 10px;
+}
+
+ol {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
 }
