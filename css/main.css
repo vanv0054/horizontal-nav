@@ -1,0 +1,8 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Bevan', cursive;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
