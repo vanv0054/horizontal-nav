@@ -9,12 +9,10 @@ html {
   box-sizing: inherit;
 }
 
-ol {
+.planets {
   margin: 0.3em;
   list-style-type: none;
   text-align: center;
-  font-family: sans-serif;
-  color: #fff;
 }
 
 nav {
