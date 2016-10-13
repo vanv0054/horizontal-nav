@@ -1,6 +1,8 @@
 html {
   box-sizing: border-box;
   font-family: 'Bevan', cursive;
+  color: #fff;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
