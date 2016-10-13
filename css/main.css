@@ -13,7 +13,7 @@ nav {
   background-color: #79756f;
 }
 
-h1 {
+header {
   text-align: center;
 }
 
@@ -23,8 +23,6 @@ li a {
   text-align: center;
   text-decoration: none;
   font-family: sans-serif;
-}
-
-.planets {
-  list-style-type: none;
+  background-color: #713837;
+  padding: .6em;
 }
