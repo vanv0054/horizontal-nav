@@ -25,4 +25,5 @@ li a {
   font-family: sans-serif;
   background-color: #713837;
   padding: .6em;
+  border-radius: 10px;
 }
