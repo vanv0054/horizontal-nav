@@ -10,7 +10,8 @@ html {
 }
 
 .planets {
-  margin: 0.3em
+  margin: 0.3em;
+  list-style-type: none;
 }
 
 nav {
