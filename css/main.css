@@ -9,16 +9,21 @@ html {
   box-sizing: inherit;
 }
 
-.planets {
-  margin: 0.3em;
-  list-style-type: none;
-  text-align: center;
-}
-
 nav {
   background-color: #79756f;
 }
 
 h1 {
   text-align: center;
+}
+
+li a {
+  color: #fff;
+  list-style-type: none;
+  text-align: center;
+
+}
+
+.planets {
+  list-style: none;
 }
