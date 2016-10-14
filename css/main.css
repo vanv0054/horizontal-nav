@@ -20,6 +20,15 @@ h1 {
   padding: 0;
   list-style-type: none;
   text-decoration: none;
-  line-height: 1rem;
+  line-height: 1.5;
   font-family: sans-serif;
+}
+
+.intro {
+  display: inline-block;
+  margin: 0.3rem;
+  max-width: 20rem;
+  padding: .6em;
+  background-color: #713837;
+  border-radius: 9px;
 }
