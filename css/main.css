@@ -54,3 +54,12 @@ a {
   background-color: #713837;
   border-radius: 9px;
 }
+
+.venus li {
+  display: inline-block;
+  margin: 0.3em;
+  max-width: 20em;
+  padding: .6em;
+  background-color: #713837;
+  border-radius: 9px;
+}
