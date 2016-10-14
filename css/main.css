@@ -31,9 +31,19 @@ li {
   background-color: #713837;
   text-decoration: none;
   list-style-type: none;
+  border-radius: 5px;
 }
 
 li:hover {
   background-color: #f33;
+  color: #fff;
+}
+
+ul{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
   color: #fff;
 }
