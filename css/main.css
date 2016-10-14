@@ -23,51 +23,17 @@ h1 {
   font-family: sans-serif;
 }
 
-.intro li {
+li {
   display: inline-block;
   margin: 0.3rem;
   max-width: 20rem;
   padding: .6em;
   background-color: #713837;
-  border-radius: 9px;
-}
-
-a {
-  color: #fff;
   text-decoration: none;
+  list-style-type: none;
 }
 
-.terre li {
-  display: inline-block;
-  margin: 0.3em;
-  max-width: 20em;
-  padding: .6em;
-  background-color: #713837;
-  border-radius: 9px;
-}
-
-.mars li {
-  display: inline-block;
-  margin: 0.3em;
-  max-width: 20em;
-  padding: .6em;
-  background-color: #713837;
-  border-radius: 9px;
-}
-
-.venus li {
-  display: inline-block;
-  margin: 0.3em;
-  max-width: 20em;
-  padding: .6em;
-  background-color: #713837;
-  border-radius: 9px;
-}
-
-header {
-  text-align: center;
-}
-
-li a:hover {
+li:hover {
   background-color: #f33;
+  color: #fff;
 }
