@@ -68,6 +68,6 @@ header {
   text-align: center;
 }
 
-a:hover {
+li a:hover {
   background-color: #f33;
 }
