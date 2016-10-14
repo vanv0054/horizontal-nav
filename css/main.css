@@ -3,35 +3,10 @@ html {
   font-family: 'Bevan', cursive;
   color: #fff;
   line-height: 1.5;
+  background-color: #79756f;
+  border: 3px solid #595652;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
-}
-
-nav {
-  background-color: #79756f;
-}
-
-header {
-  text-align: center;
-  padding-top: 0.5em;
-}
-
-li a {
-  color: #fff;
-  text-decoration: none;
-  font-family: sans-serif;
-  background-color: #713837;
-  padding: .6em;
-  border-radius: 10px;
-}
-
-ol {
-  list-style-type: none;
-  text-align: center;
-}
-
-li {
-  display: inline-block;
 }
