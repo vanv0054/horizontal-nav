@@ -19,6 +19,7 @@ h1 {
   font-family: "Bevan", serif;
   color: #fff;
   text-align: center;
+  margin: 0;
 }
 
 .navbar {
@@ -29,32 +30,46 @@ h1 {
   font-family: sans-serif;
 }
 
-li {
+nav a {
   display: inline-block;
-  margin: 0.3rem;
-  max-width: 20rem;
   padding: .6em;
   background-color: #713837;
   text-decoration: none;
-  list-style-type: none;
   border-radius: 5px;
+  color: #fff;
 }
 
-li:hover {
+nav a:hover {
   background-color: #f33;
   color: #fff;
 }
 
 ul {
   text-align: center;
-}
-
-a {
-  text-decoration: none;
-  color: #fff;
+  list-style-type: none;
 }
 
 body {
   margin: 0;
   background-color: #79756f;
+}
+
+header {
+  background-color: #79756f;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #79756f;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0.3em;
 }
